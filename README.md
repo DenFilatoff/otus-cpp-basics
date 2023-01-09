@@ -1,2 +1,2 @@
 # otus-cpp-basics
-Hello otus
+Hello otus!
